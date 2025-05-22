@@ -73,4 +73,10 @@ public class Persona {
     public Persona() {
 
     }
+
+    private  void  MostrarInformacion()
+    {
+
+
+    }
 }
