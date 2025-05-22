@@ -9,6 +9,8 @@ import javax.persistence.Table;
 @Table(name = "persona", schema = "utp")
 public class Persona {
 
+
+    //subido desde intellij idea
     @Id
     @Column(name = "IDPERSONA")
     private Long idpersona;
