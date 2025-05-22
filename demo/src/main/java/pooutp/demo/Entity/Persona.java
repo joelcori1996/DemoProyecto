@@ -9,7 +9,7 @@ import javax.persistence.Table;
 @Table(name = "persona", schema = "utp")
 public class Persona {
 
-
+ v  
     //subido desde intellij idea
     @Id
     @Column(name = "IDPERSONA")
